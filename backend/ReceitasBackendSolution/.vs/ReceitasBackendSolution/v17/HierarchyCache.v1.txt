@@ -1,0 +1,314 @@
+﻿++Solution 'ReceitasBackendSolution' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:ReceitasBackendSolution.sln
+++receitas.api
+i:{00000000-0000-0000-0000-000000000000}:receitas.api
+++Connected Services 
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:>795
+++Dependencies
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:>794
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:>608
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:>609
+++Properties
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\properties\
+++wwwroot
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\wwwroot\
+++Controllers
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\controllers\
+++Data
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\
+++CategoryDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\categorydao.cs
+++CommentDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\commentdao.cs
+++DifficultyDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\difficultydao.cs
+++FavoriteDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\favoritedao.cs
+++HighlightDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\highlightdao.cs
+++ICategoryDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\icategorydao.cs
+++ICommentDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\icommentdao.cs
+++IDifficultyDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\idifficultydao.cs
+++IFavoriteDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\ifavoritedao.cs
+++IHighlightDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\ihighlightdao.cs
+++IIngredientDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\iingredientdao.cs
+++IngredtientDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\ingredtientdao.cs
+++IPermissionDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\ipermissiondao.cs
+++IRecipeDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\irecipedao.cs
+++IStateDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\istatedao.cs
+++ITemp.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\itemp.cs
+++IUnityDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\iunitydao.cs
+++IUserDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\iuserdao.cs
+++PermissionDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\permissiondao.cs
+++RecipeDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\recipedao.cs
+++StateDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\statedao.cs
+++TempDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\tempdao.cs
+++UnityDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\unitydao.cs
+++UserDao.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\data\userdao.cs
+++Helpers
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\helpers\
+++InicialData.cs
+++ReceitasDbContext.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\helpers\receitasdbcontext.cs
+++Migrations
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\migrations\
+++20220627204050_MigrationV1.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\migrations\20220627204050_migrationv1.cs
+++InitialData.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\migrations\initialdata.cs
+++RecitasDbDbContextModelSnapshot.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\migrations\recitasdbdbcontextmodelsnapshot.cs
+++Services
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\
+++CategoryService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\categoryservice.cs
+++CommentService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\commentservice.cs
+++DifficultyService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\difficultyservice.cs
+++FavoriteService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\favoriteservice.cs
+++HighlightService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\highlightservice.cs
+++ICategoryService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\icategoryservice.cs
+++ICommentService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\icommentservice.cs
+++IDifficultyService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\idifficultyservice.cs
+++IFavoriteService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\ifavoriteservice.cs
+++IHighlightServcie.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\ihighlightservcie.cs
+++IIngredientService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\iingredientservice.cs
+++IngredientService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\ingredientservice.cs
+++IPermissionService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\ipermissionservice.cs
+++IRecipeService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\irecipeservice.cs
+++IStateService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\istateservice.cs
+++ITempService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\itempservice.cs
+++IUnityService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\iunityservice.cs
+++IUserService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\iuserservice.cs
+++PermissionService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\permissionservice.cs
+++RecipeService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\recipeservice.cs
+++StateService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\stateservice.cs
+++TempService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\tempservice.cs
+++UnityService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\unityservice.cs
+++UserService.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\services\userservice.cs
+++appsettings.json
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\appsettings.json
+++Program.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\program.cs
+++No service dependencies discovered
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:>796
+++Analyzers
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:analyzers
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:analyzers
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:analyzers
+++Frameworks
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:frameworks
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:frameworks
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:frameworks
+++Packages
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:packages
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:packages
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:packages
+++Projects
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:projects
+++launchSettings.json
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\properties\launchsettings.json
+++recipeimage
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\wwwroot\recipeimage\
+++CategoryController.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\controllers\categorycontroller.cs
+++CommentController.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\controllers\commentcontroller.cs
+++DifficultyController.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\controllers\difficultycontroller.cs
+++FavoriteController.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\controllers\favoritecontroller.cs
+++HighlightController.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\controllers\highlightcontroller.cs
+++IngredientController.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\controllers\ingredientcontroller.cs
+++PermissionController.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\controllers\permissioncontroller.cs
+++RecipeController.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\controllers\recipecontroller.cs
+++RecipeIngredientController.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\controllers\recipeingredientcontroller.cs
+++StateController.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\controllers\statecontroller.cs
+++UnityController.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\controllers\unitycontroller.cs
+++UserController.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\controllers\usercontroller.cs
+++20220627204050_MigrationV1.Designer.cs
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\migrations\20220627204050_migrationv1.designer.cs
+++appsettings.Development.json
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:c:\users\brian\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.6\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:c:\users\brian\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.6\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:c:\users\brian\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.6\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:c:\users\brian\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:c:\users\brian\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\microsoft.netcore.app
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\microsoft.netcore.app
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:e:\rumos\project\backend\receitasbackendsolution\receitas.testesui\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.6)
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:>837
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:>832
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:>842
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.6)
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:>839
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:>834
+++Microsoft.EntityFrameworkCore.Tools (6.0.6)
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:>841
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:>836
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:>849
+++receitas.entidades
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\bin\debug\net6.0\receitas.entidades.dll
+i:{00000000-0000-0000-0000-000000000000}:receitas.entidades
+++bacalhaubras.jpg
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\wwwroot\recipeimage\bacalhaubras.jpg
+++R.jpg
+i:{9bbcaa84-2a40-416c-b72e-a00fd8df8d9e}:e:\rumos\project\backend\receitasbackendsolution\receitas.api\wwwroot\recipeimage\r.jpg
+++Category.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\category.cs
+++Classification.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\classification.cs
+++Comment.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\comment.cs
+++CommentModel.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\commentmodel.cs
+++Difficulty.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\difficulty.cs
+++Favorite.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\favorite.cs
+++FileUpload.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\fileupload.cs
+++Highlight.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\highlight.cs
+++HighlightModel.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\highlightmodel.cs
+++Ingredient.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\ingredient.cs
+++LoginTo.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\loginto.cs
+++Permission.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\permission.cs
+++Recipe.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\recipe.cs
+++RecipeIngredient.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\recipeingredient.cs
+++RecipeIngredientModel.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\recipeingredientmodel.cs
+++RecipeModel.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\recipemodel.cs
+++State.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\state.cs
+++Temp.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\temp.cs
+++TempModel.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\tempmodel.cs
+++Unity.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\unity.cs
+++User.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\user.cs
+++UserModel.cs
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:e:\rumos\project\backend\receitasbackendsolution\receitas.entidades\usermodel.cs
+++Microsoft.AspNetCore.Http.Abstractions (2.2.0)
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:>859
+++Microsoft.AspNetCore.Http.Features (5.0.17)
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:>831
+++Microsoft.EntityFrameworkCore.Design (6.0.6)
+i:{9aebba48-81b1-4252-b8ff-04771895c77c}:>835
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:>845
+++Receitas.testesUi
+i:{00000000-0000-0000-0000-000000000000}:Receitas.testesUi
+++UnitTest1.cs
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:e:\rumos\project\backend\receitasbackendsolution\receitas.testesui\unittest1.cs
+++xunit.analyzers
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:c:\users\brian\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++coverlet.collector (3.1.0)
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:>851
+++Microsoft.NET.Test.Sdk (16.11.0)
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:>843
+++Selenium.Chrome.WebDriver (85.0.0)
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:>847
+++Selenium.WebDriver (4.1.1)
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:>840
+++Selenium.WebDriver.ChromeDriver (101.0.4951.4100)
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:>844
+++Selenium.WebDriver.IEDriver (4.0.0.1)
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:>846
+++Selenium.WebDriver.MSEdgeDriver (101.0.1210.47)
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:>852
+++xunit (2.4.1)
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:>848
+++xunit.runner.visualstudio (2.4.3)
+i:{8645d7b4-4365-45e7-b2c3-acfa6524a183}:>850

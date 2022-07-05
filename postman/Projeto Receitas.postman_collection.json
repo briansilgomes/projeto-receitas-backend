@@ -1,0 +1,1465 @@
+{
+	"info": {
+		"_postman_id": "408cefa2-a1ae-4cc3-a7f9-a2014a49b0ab",
+		"name": "Projeto Receitas",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19608869"
+	},
+	"item": [
+		{
+			"name": "Destaques",
+			"item": [
+				{
+					"name": "Destaques",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/highlight",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"highlight"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Destaques - Delete",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/highlight/:id",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"highlight",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "46"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Destaques - Add",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"idrecipe\":46\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/highlight",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"highlight"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Dificuldade",
+			"item": [
+				{
+					"name": "Dificuldade",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/difficulty",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"difficulty"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Comentários",
+			"item": [
+				{
+					"name": "Comentário",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/comments/:id",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"comments",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "0"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Média Classificação",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/comments/media/:id",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"comments",
+								"media",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "900"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Comentário - Add",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"commentrecipe\": \"Lorem Ipsum is simply dummy text of the printing and typesetting industry.\",\r\n    \"classificationrecipe\": 5,\r\n    \"datecomment\": \"2022-05-17T08:23:42.75\",\r\n    \"idrecipe\":46,\r\n    \"iduser\":1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/comments",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"comments"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Categorias",
+			"item": [
+				{
+					"name": "Categorias",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/category",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"category"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Favoritos",
+			"item": [
+				{
+					"name": "Favoritos - Lista",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/favorite/:id",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"favorite",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "2"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Favoritos - Receita/Utilizadores",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/favorite/:idreceita/:iduser",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"favorite",
+								":idreceita",
+								":iduser"
+							],
+							"variable": [
+								{
+									"key": "idreceita",
+									"value": "46"
+								},
+								{
+									"key": "iduser",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Favoritos",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/favorite/:id",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"favorite",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "5"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Favoritos - Add",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"iduser\":5,\r\n    \"idrecipe\":46\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/favorite",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"favorite"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Unidades",
+			"item": [
+				{
+					"name": "Unidades - All",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/unitys",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"unitys"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Unidade - Id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/unitys/:id",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"unitys",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "1003"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Unidade - Add",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"nameunity\":\"Litros\",\r\n    \"siglaunity\":\"lt\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/unitys",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"unitys"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Unidade - Validar",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"nameunity\":\"Centilitro\",\r\n    \"siglaunity\":\"cl\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/unitys/validate",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"unitys",
+								"validate"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Unidade - Alterar",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"idunity\":1003,\r\n    \"nameunity\":\"Centilitro\",\r\n    \"siglaunity\":\"cl\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/unitys",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"unitys"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Unidade - Procura",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/unitys/search/:search",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"unitys",
+								"search",
+								":search"
+							],
+							"variable": [
+								{
+									"key": "search",
+									"value": "l"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Ingredientes",
+			"item": [
+				{
+					"name": "Ingredientes - List",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/ingredient",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"ingredient"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Ingredientes - Id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/ingredient/:id",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"ingredient",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "900"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Ingredientes - Id Copy",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/ingredient/ingredientrecipe/:id",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"ingredient",
+								"ingredientrecipe",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "900"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Ingredientes - Add",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"nameingredient\": \"Feijão\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/ingredient",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"ingredient"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Ingredientes - Update",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"idingredient\": 4006,\r\n    \"nameingredient\": \"Feijão22\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/ingredient",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"ingredient"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Ingredientes - Validar",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"idingredient\": 4006,\r\n    \"nameingredient\": \"Feijão\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/ingredient/validate",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"ingredient",
+								"validate"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Ingredientes - Procura",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/ingredient/search/:search",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"ingredient",
+								"search",
+								":search"
+							],
+							"variable": [
+								{
+									"key": "search",
+									"value": "al"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Receitas",
+			"item": [
+				{
+					"name": "Receitas - List",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/recipes",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"recipes"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Receitas - Id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/recipes/:id",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"recipes",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "5017"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Receitas - User",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/recipes/recipesuser/:id",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"recipes",
+								"recipesuser",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "2"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Receitas - Validar",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/recipes/validate",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"recipes",
+								"validate"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Receitas - Orden. Categoria",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/recipes/orderby/:id",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"recipes",
+								"orderby",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "5"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Receitas - Pesquisa",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/recipes/searchname/:name",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"recipes",
+								"searchname",
+								":name"
+							],
+							"variable": [
+								{
+									"key": "name",
+									"value": "azeite"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Receitas - Orden. Estado",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/recipes/orderbystate/:iduser/:idstate",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"recipes",
+								"orderbystate",
+								":iduser",
+								":idstate"
+							],
+							"variable": [
+								{
+									"key": "iduser",
+									"value": "1"
+								},
+								{
+									"key": "idstate",
+									"value": "7"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Receitas - Edit ID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/recipes/editrecipe/:id",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"recipes",
+								"editrecipe",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": null
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Receitas - Add Recipe",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"namerecipe\":\"Feijão Frade\",\r\n    \"preparationrecipe\":\"feijão na lata\",\r\n    \"durationrecipe\":\"00:30\",\r\n    \"imagerecipe\":\"destaques1.jpg\",\r\n    \"daterecipe\":\"2019-01-06T17:16:40\",\r\n    \"idcategory\":1,\r\n    \"iduser\":1,\r\n    \"idstate\":2,\r\n    \"iddifficulty\":1\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/recipes/addrecipe",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"recipes",
+								"addrecipe"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Receitas - Update",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"idrecipe\":4017,\r\n    \"namerecipe\":\"Feijão Frade contitente\",\r\n    \"preparationrecipe\":\"feijão na lata\",\r\n    \"durationrecipe\":\"00:30\",\r\n    \"imagerecipe\":\"assets/imagepage/destaques1.jpg\",\r\n    \"idcategory\":1,\r\n    \"iduser\":1,\r\n    \"idstate\":2,\r\n    \"iddifficulty\":1\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/recipes/updaterecipe",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"recipes",
+								"updaterecipe"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Receitas - Upload Image",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "files",
+									"type": "file",
+									"src": "/C:/Users/brian/OneDrive/Desktop/bacalhaubras.jpg"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{baseUrl}}/recipes/upload",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"recipes",
+								"upload"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Receitas - Upload Image Copy",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/recipes/getimage/:filename",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"recipes",
+								"getimage",
+								":filename"
+							],
+							"variable": [
+								{
+									"key": "filename",
+									"value": "fundo.jpg"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Receita / Ingredientes",
+			"item": [
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/recipeingredient/:idrecipe/:iduser",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"recipeingredient",
+								":idrecipe",
+								":iduser"
+							],
+							"variable": [
+								{
+									"key": "idrecipe",
+									"value": ""
+								},
+								{
+									"key": "iduser",
+									"value": null
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Temporária",
+			"item": [
+				{
+					"name": "Temporário",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/ingredient/temp/:iduser",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"ingredient",
+								"temp",
+								":iduser"
+							],
+							"variable": [
+								{
+									"key": "iduser",
+									"value": "6"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Real - Temporário",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/ingredient/realtotemp/:idrecipe/:iduser",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"ingredient",
+								"realtotemp",
+								":idrecipe",
+								":iduser"
+							],
+							"variable": [
+								{
+									"key": "idrecipe",
+									"value": "46"
+								},
+								{
+									"key": "iduser",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Temporário - Real",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/recipeingredient/:idrecipe/:iduser",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"recipeingredient",
+								":idrecipe",
+								":iduser"
+							],
+							"variable": [
+								{
+									"key": "idrecipe",
+									"value": "46"
+								},
+								{
+									"key": "iduser",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Temporário - Add",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"iduser\":2,\r\n    \"idingredient\":1,\r\n    \"idunity\":4,\r\n    \"quantity\":400\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/ingredient/temporary",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"ingredient",
+								"temporary"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Temporário - Delete",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"iduser\":1,\r\n    \"idingredient\":1,\r\n    \"idunity\":1,\r\n    \"quantity\":300\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/ingredient/temporary/:idtemp",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"ingredient",
+								"temporary",
+								":idtemp"
+							],
+							"variable": [
+								{
+									"key": "idtemp",
+									"value": "6072"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Utilizador",
+			"item": [
+				{
+					"name": "Utilizador",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/users",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Utilizador - Procurar",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/users/search/:search",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"users",
+								"search",
+								":search"
+							],
+							"variable": [
+								{
+									"key": "search",
+									"value": "brian"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Utilizador - username",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/users/:username",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"users",
+								":username"
+							],
+							"variable": [
+								{
+									"key": "username",
+									"value": "admin@receitas.pt"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Utilizador - Home",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/users/userhome/:iduser",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"users",
+								"userhome",
+								":iduser"
+							],
+							"variable": [
+								{
+									"key": "iduser",
+									"value": "4"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Utilizador - ID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/users/id/:iduser",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"users",
+								"id",
+								":iduser"
+							],
+							"variable": [
+								{
+									"key": "iduser",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Utilizador - Add",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"nameuser\": \"teste\",\r\n    \"emailuser\": \"teste129@chagas.pt\",\r\n    \"passworduser\": \"123\",\r\n    \"userimage\":\"assets/imagepage/userimage.jpg\",\r\n    \"idstate\":1,\r\n    \"idpermission\":1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/users",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Utilizador - Bloquear",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"iduser\": 6,\r\n    \"nameuser\": \"\",\r\n    \"emailuser\": \"\",\r\n    \"imageuser\": \"\",\r\n    \"state\": \"\",\r\n    \"permission\": \"\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/users/look",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"users",
+								"look"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Utilizador - Desbloquear",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"iduser\": 4,\r\n    \"nameuser\": \"\",\r\n    \"emailuser\": \"\",\r\n    \"imageuser\": \"\",\r\n    \"state\": \"\",\r\n    \"permission\": \"\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/users/unlook",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"users",
+								"unlook"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Utilizador - Editar",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"iduser\":4,\r\n    \"nameuser\": \"teste\",\r\n    \"emailuser\": \"briangomes@sapo.pt\",\r\n    \"passworduser\": \"123\",\r\n    \"userimage\":\"assets/imagepage/userimage.jpg\",\r\n    \"idstate\":8,\r\n    \"idpermission\":1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/users",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"users"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Permissões",
+			"item": [
+				{
+					"name": "Permissões",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/permission",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"permission"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Estados",
+			"item": [
+				{
+					"name": "Estados",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/state",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"state"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "baseUrl",
+			"value": "http://localhost:5101/api",
+			"type": "string"
+		}
+	]
+}

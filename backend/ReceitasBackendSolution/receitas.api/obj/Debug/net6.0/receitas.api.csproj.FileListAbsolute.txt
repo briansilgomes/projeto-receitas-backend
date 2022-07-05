@@ -1,0 +1,165 @@
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\appsettings.json
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.exe
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.deps.json
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.runtimeconfig.json
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.dll
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\ref\receitas.api.dll
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.pdb
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.AssemblyInfo.cs
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\scopedcss\bundle\receitas.api.styles.css
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.dll
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\ref\receitas.api.dll
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.pdb
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.genruntimeconfig.cache
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.entidades.dll
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.entidades.pdb
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.csproj.CopyComplete
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.csproj.AssemblyReference.cache
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.AssemblyInfoInputs.cache
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.AssemblyInfo.cs
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.csproj.CoreCompileInputs.cache
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.MvcApplicationPartsAssemblyInfo.cache
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.dll
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\ref\receitas.api.dll
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.pdb
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\appsettings.Development.json
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\appsettings.json
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.exe
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.deps.json
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.runtimeconfig.json
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.dll
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.pdb
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.entidades.dll
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.entidades.pdb
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\staticwebassets.build.json
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\staticwebassets.development.json
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\scopedcss\bundle\receitas.api.styles.css
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.csproj.CopyComplete
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\refint\receitas.api.dll
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.genruntimeconfig.cache
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\appsettings.Development.json
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\appsettings.json
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.exe
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.deps.json
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.runtimeconfig.json
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.pdb
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.entidades.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.entidades.pdb
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.csproj.AssemblyReference.cache
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.AssemblyInfoInputs.cache
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.AssemblyInfo.cs
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.csproj.CoreCompileInputs.cache
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.MvcApplicationPartsAssemblyInfo.cache
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\staticwebassets.build.json
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\staticwebassets.development.json
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\scopedcss\bundle\receitas.api.styles.css
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.csproj.CopyComplete
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\ref\receitas.api.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.pdb
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.genruntimeconfig.cache
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\refint\receitas.api.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Humanizer.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\appsettings.Development.json
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\appsettings.json
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.exe
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.deps.json
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.runtimeconfig.json
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.pdb
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Humanizer.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.entidades.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.entidades.pdb
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.csproj.AssemblyReference.cache
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.AssemblyInfoInputs.cache
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.AssemblyInfo.cs
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.csproj.CoreCompileInputs.cache
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.MvcApplicationPartsAssemblyInfo.cache
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\staticwebassets.build.json
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\staticwebassets.development.json
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\scopedcss\bundle\receitas.api.styles.css
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.csproj.CopyComplete
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\refint\receitas.api.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.pdb
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\receitas.api.genruntimeconfig.cache
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\obj\Debug\net6.0\ref\receitas.api.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.api\bin\Debug\net6.0\receitas.api.staticwebassets.runtime.json

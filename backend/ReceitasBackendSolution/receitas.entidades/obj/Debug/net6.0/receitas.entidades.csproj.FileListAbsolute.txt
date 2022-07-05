@@ -1,0 +1,52 @@
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.entidades\bin\Debug\net6.0\receitas.entidades.deps.json
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.entidades\bin\Debug\net6.0\receitas.entidades.dll
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.entidades\bin\Debug\net6.0\ref\receitas.entidades.dll
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.entidades\bin\Debug\net6.0\receitas.entidades.pdb
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.AssemblyInfo.cs
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.dll
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\ref\receitas.entidades.dll
+C:\Users\brian\source\repos\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.pdb
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.csproj.AssemblyReference.cache
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.AssemblyInfoInputs.cache
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.AssemblyInfo.cs
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.csproj.CoreCompileInputs.cache
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.dll
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\ref\receitas.entidades.dll
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.pdb
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\bin\Debug\net6.0\receitas.entidades.deps.json
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\bin\Debug\net6.0\receitas.entidades.dll
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\bin\Debug\net6.0\receitas.entidades.pdb
+F:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\refint\receitas.entidades.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\bin\Debug\net6.0\receitas.entidades.deps.json
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\bin\Debug\net6.0\receitas.entidades.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\bin\Debug\net6.0\receitas.entidades.pdb
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.csproj.AssemblyReference.cache
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.AssemblyInfoInputs.cache
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.AssemblyInfo.cs
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.csproj.CoreCompileInputs.cache
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\ref\receitas.entidades.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.pdb
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\refint\receitas.entidades.dll
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\bin\Debug\net6.0\receitas.entidades.runtimeconfig.json
+E:\Rumos\Academia - Code\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.genruntimeconfig.cache
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.entidades\bin\Debug\net6.0\receitas.entidades.deps.json
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.entidades\bin\Debug\net6.0\receitas.entidades.runtimeconfig.json
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.entidades\bin\Debug\net6.0\receitas.entidades.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.entidades\bin\Debug\net6.0\receitas.entidades.pdb
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.csproj.AssemblyReference.cache
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.AssemblyInfoInputs.cache
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.AssemblyInfo.cs
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.csproj.CoreCompileInputs.cache
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\refint\receitas.entidades.dll
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.pdb
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\receitas.entidades.genruntimeconfig.cache
+E:\Rumos\PROJECT\backend\ReceitasBackendSolution\receitas.entidades\obj\Debug\net6.0\ref\receitas.entidades.dll

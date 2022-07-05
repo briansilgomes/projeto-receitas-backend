@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9bbcaa84-2a40-416c-b72e-a00fd8df8d9e": {
+      "ProjectGuid": "9bbcaa84-2a40-416c-b72e-a00fd8df8d9e",
+      "DisplayName": "receitas.api",
+      "ColorIndex": 0
+    },
+    "9aebba48-81b1-4252-b8ff-04771895c77c": {
+      "ProjectGuid": "9aebba48-81b1-4252-b8ff-04771895c77c",
+      "DisplayName": "receitas.entidades",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
